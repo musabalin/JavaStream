@@ -1,4 +1,6 @@
-package com.training.MaxAndComparator;
+package com.training;
+
+import com.training.Entities.Person;
 
 import java.util.*;
 

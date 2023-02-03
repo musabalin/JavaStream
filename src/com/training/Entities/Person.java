@@ -1,4 +1,4 @@
-package com.training.MaxAndComparator;
+package com.training.Entities;
 
 /**
  * @author musa.balin
